@@ -4,7 +4,7 @@
 * 后端基于nodejs koa web框架 + sequelize + mysql
 * 已对接微信公众号／微信小程序／微信支付／支付宝支付／百度人脸抓拍
 * 全栈开发 **In Free Time**
-* [小美收银管理平台](https://www.ixiaomu.cn/xiaomei) (注册店铺350+)
+* [小美收银管理平台](https://www.ixiaomu.cn/xiaomei) (使用店铺350+)
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/1.png" alt="" width="800" height="500"/>
