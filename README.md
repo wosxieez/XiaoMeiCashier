@@ -1,6 +1,6 @@
 ###  小美收银管理软件
 
-* 前端基于React + ant design
+* 前端基于react + ant design
 * 后端基于nodejs koa web框架 + sequelize + mysql
 * 使用阿里云服务 pm2进程管理
 * 已对接微信公众号／微信小程序／微信支付／支付宝支付
