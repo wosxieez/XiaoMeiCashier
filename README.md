@@ -14,7 +14,4 @@
 <img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/5.png" alt="" width="800" height="500"/>
 <br/>
 <img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/9.png" alt="" width="800" height="500"/>
-<br/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/15.png" alt="" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/16.png" alt="" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/17.png" alt="" width="100" height="100"/>
+
