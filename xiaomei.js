@@ -7,5 +7,6 @@ export default {
   xiaomeiwxapi: 'https://github.com/wosxieez/xiaomei-wx-api', // 小美收银微信公众号服务 private
   xiaomeiallpayapi: 'https://github.com/wosxieez/xiaomei-all-pay-api', // 小美收银支付服务 private
   xiaomeiforwardapi: 'https://github.com/wosxieez/xiaomei-forward-api', // 小美收银转发服务 (多服务器用户转发) private
-  xiaomeiagentapi: 'https://github.com/wosxieez/xiaomei-agent-api' // 小美收银代理服务 (代理商关系维护) private
+  xiaomeiagentapi: 'https://github.com/wosxieez/xiaomei-agent-api', // 小美收银代理服务 (代理商关系维护) private
+  xiaomeifaceapi: 'https://github.com/wosxieez/xiaomei-face-api' // 小美人脸抓拍服务 private
 }
