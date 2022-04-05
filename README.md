@@ -9,11 +9,25 @@
 * [小美收银管理平台Windows客户端](https://hefeixiaomuweb.oss-cn-hangzhou.aliyuncs.com/download/xiaomei-desktop.exe)
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/1.png" alt="" width="800" height="500"/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/1.png" alt="" width="800" height="500"/>
 <br/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/2.png" alt="" width="800" height="500"/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/2.png" alt="" width="800" height="500"/>
 <br/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/5.png" alt="" width="800" height="500"/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/3.png" alt="" width="800" height="500"/>
 <br/>
-<img src="https://raw.githubusercontent.com/wosxieez/XiaoMeiCashier/master/screenshot/9.png" alt="" width="800" height="500"/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/4.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/5.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/6.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/7.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/8.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/9.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/10.png" alt="" width="800" height="500"/>
+<br/>
+<img src="https://hefeixiaomu.oss-cn-hangzhou.aliyuncs.com/coco/11.png" alt="" width="800" height="500"/>
 
